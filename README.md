@@ -15,4 +15,4 @@ This project demonstrates crawling Google Trends using Python and deploying on G
 ## How to Run
 1. Install requirements:
 ```bash
-pip install -r requirements.txt
+pip install -r requirements.txt 
